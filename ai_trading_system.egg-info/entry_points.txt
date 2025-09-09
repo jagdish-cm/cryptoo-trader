@@ -1,0 +1,2 @@
+[console_scripts]
+ai-trading-system = ai_trading_system.main:main
